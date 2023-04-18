@@ -1,0 +1,6 @@
+.blogList-container {
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+} /* Write your CSS code here */
